@@ -7,7 +7,7 @@ const mockGames: Game[] = [
   { id: '4', name: 'Roulette Extravagant', img: '/Images/roulette.png', category: 'NEW', provider: 'Casino Plus' },
   { id: '5', name: 'Black Jack Mission', img: '/Images/blackjack.jpg', category: 'START', provider: 'Casino Plus' },
   { id: '6', name: 'Seven Eleven', img: '/Images/dicegame.jpeg', category: 'SLOTS', provider: 'Enter Plus' },
-  // Add more mock games here
+  
 ];
 
 export const fetchGames = (): Promise<Game[]> => {

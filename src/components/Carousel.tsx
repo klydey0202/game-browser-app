@@ -4,6 +4,9 @@ const images = [
     '/Images/casino.png',
     '/Images/esquleto.jpg',
     '/Images/slotmachines.jpeg',
+    '/Images/roulette.png',
+    '/Images/blackjack.jpg',
+    '/Images/dicegame.jpeg',
 ]
 
 const Carousel: React.FC = () => {
